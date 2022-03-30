@@ -1,0 +1,22 @@
+# Added by https://ghe.iparadigms.com/AppOps/bootstrap-jet
+dockercfg
+jet-env
+
+**/.DS_Store
+
+# maven, test, IDE working directories
+target/
+test-output/
+.idea/
+
+logs/
+
+# eclipse IDE
+.project
+.classpath
+.wtpmodules
+.settings
+.gradle/
+build/
+bin/
+rolling-logs/
