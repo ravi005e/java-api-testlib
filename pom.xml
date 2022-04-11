@@ -5,7 +5,7 @@
 
     <groupId>io.github.mrs</groupId>
     <artifactId>java-api-testlib</artifactId>
-    <version>1.5.1-SNAPSHOT</version>
+    <version>master</version>
     <packaging>jar</packaging>
 
     <properties>
