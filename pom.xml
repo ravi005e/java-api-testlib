@@ -5,8 +5,17 @@
 
     <groupId>io.github.mrs</groupId>
     <artifactId>java-api-testlib</artifactId>
-    <version>master-SNAPSHOT</version>
+    <version>1.0.7-SNAPSHOT</version>
     <packaging>jar</packaging>
+
+    <name>api test library</name>
+    <description>This library is for testing api, using gson, restAssured and lombok</description>
+
+    <scm>
+        <connection>scm:git:git://github.com/ravi005e/java-api-testlib.git</connection>
+        <developerConnection>scm:git:git@github.com:ravi005e/java-api-testlib.git</developerConnection>
+        <url>git://github.com/ravi005e/java-api-testlib.git</url>
+    </scm>
 
     <properties>
         <java.version>11</java.version>
